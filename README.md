@@ -1,1 +1,3 @@
- # week3
+typescript + next.js
+
+# week6
